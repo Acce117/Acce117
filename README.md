@@ -1,14 +1,14 @@
-<p style="font-size:44px">Hi I'm Ernesto</p>
-<p style="font-size:44px">A Web Developer</p>
+# Hi I'm Ernesto
+# I'm a Web Developer
 
 ## Tech stack
 
 ### Languages
-<div style="display:flex;">
- <img src=" https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript" height="25" style="margin-right:5px"/> 
- <img src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript" height="25" style="margin-right:5px"/>
+
+ ![][javascript]
+ ![][typescript]
  <img src="https://img.shields.io/badge/-Java-990010?logo=java&logoColor=white" height="25"/> 
-</div>
+
 
 ### Frontend
 <div style="display:flex;">
@@ -30,3 +30,6 @@
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/-PostgreSQL-272735?style=flat&logo=postgresql" height="25"/>
 </div>
+
+[javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript
+[typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript
