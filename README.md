@@ -1,5 +1,4 @@
-# Hi I'm Ernesto
-# I'm a Web Developer
+# Hi I'm Ernesto <br/> I'm a Web Developer
 
 ## Tech stack
 
@@ -7,29 +6,40 @@
 
  ![][javascript]
  ![][typescript]
- <img src="https://img.shields.io/badge/-Java-990010?logo=java&logoColor=white" height="25"/> 
-
+ ![][java]
 
 ### Frontend
-<div style="display:flex;">
- <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" height="25" style="margin-right:5px"/> 
- <img src="https://img.shields.io/badge/-CSS-254bdd?&logoColor=white&logo=css3" height="25" style="margin-right:5px"/>
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" height="25" style="margin-right:5px"/>
- <img src="https://img.shields.io/badge/-Sass-927?style=flat&logoColor=white&logo=sass" height="25" style="margin-right:5px"/>
-</div>
+ ![][html]
+ ![][css]
+ ![][sass]
+ ![][vue]
 
 ### Backend
-<div style="display:flex;">
- <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="25" style="margin-right:5px"/> 
- <img src="https://img.shields.io/badge/-express-white?&logoColor=black&logo=express" height="25" style="margin-right:5px"/>
- <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" height="25" style="margin-right:5px"/>
- <img src="https://img.shields.io/badge/-Websockets-151515?style=flat&logo=socket.io" height="25"/>
-</div>
+ ![][node]
+ ![][express]
+ ![][nest]
+ ![][socket]
 
 ### Database
-<div style="display:flex;">
- <img src="https://img.shields.io/badge/-PostgreSQL-272735?style=flat&logo=postgresql" height="25"/>
-</div>
+![][postgres]
 
-[javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript
-[typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript
+
+<!--Languages-->
+[javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=for-the-badge&logoColor=white&logo=javascript
+[typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logoColor=white&logo=typescript
+[java]: https://img.shields.io/badge/-Java-990010?logo=java&logoColor=white&style=for-the-badge
+
+<!--Frontend-->
+[html]: https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge 
+[css]: https://img.shields.io/badge/-CSS-254bdd?&logoColor=white&logo=css3&style=for-the-badge
+[vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[sass]: https://img.shields.io/badge/-Sass-927?style=for-the-badge&logoColor=white&logo=sass
+
+<!--Backend-->
+ [node]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+ [express]: https://img.shields.io/badge/-express-white?&logoColor=black&logo=express&style=for-the-badge
+ [nest]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+ [socket]: https://img.shields.io/badge/-Websockets-151515?style=for-the-badge&logo=socket.io
+
+<!--Database-->
+ [postgres]: https://img.shields.io/badge/-PostgreSQL-272735?style=for-the-badge&logo=postgresql
