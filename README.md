@@ -3,6 +3,13 @@
 
 ## Tech stack
 
+### Languages
+<div style="display:flex;">
+ <img src=" https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript" height="25" style="margin-right:5px"/> 
+ <img src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript" height="25" style="margin-right:5px"/>
+ <img src="https://img.shields.io/badge/-Java-990010?logo=java&logoColor=white" height="25" style="margin-right:5px"/> 
+</div>
+
 ### Frontend
  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/-CSS-254bdd?&logoColor=white&logo=css3" height="25"/>
