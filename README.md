@@ -23,6 +23,7 @@
  ![][nest]
  ![][laravel]
  ![][socket]
+ ![][simphony]
 
 ### Database
 ![][postgres]
@@ -48,6 +49,7 @@
  [nest]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
  [laravel]: https://img.shields.io/badge/laravel-991010.svg?style=for-the-badge&logo=laravel&logoColor=white
  [socket]: https://img.shields.io/badge/-Websockets-151515?style=for-the-badge&logo=socket.io
+ [simphony]: https://img.shields.io/badge/-symfony-151515?style=for-the-badge&logo=Symfony
 
 <!--Database-->
  [postgres]: https://img.shields.io/badge/-PostgreSQL-272735?style=for-the-badge&logo=postgresql
