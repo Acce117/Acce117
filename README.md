@@ -28,6 +28,7 @@
 ### Database
 ![][postgres]
 ![][mariadb]
+![][redis]
 
 <!--Languages-->
 [javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=for-the-badge&logoColor=white&logo=javascript
@@ -54,6 +55,7 @@
 <!--Database-->
  [postgres]: https://img.shields.io/badge/-PostgreSQL-272735?style=for-the-badge&logo=postgresql
  [mariadb]: https://img.shields.io/badge/-MariaDB-272735?style=for-the-badge&logo=mariadb
+ [redis]: https://img.shields.io/badge/-Redis-272735?style=for-the-badge&logo=redis&color=white
 
 <div>
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Acce117&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas" />
