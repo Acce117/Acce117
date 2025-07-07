@@ -1,5 +1,14 @@
-# Hi I'm Ernesto <br/> I'm a Web Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ernesto
+===============================================================================================================================
 
+Software engineer
+-----------------
+
+Passionate about web development both front and back. Always learning, always improving my skills, being better than yesterday.
+
+✉️  You can contact me at: 
+* [e.carralero117@gmail.com](mailto:e.carralero117@gmail.com)
+* [telegram](https://t.me/acce117)
 ## Tech stack
 
 ### Languages
@@ -16,6 +25,7 @@
  <!--![][sass]-->
  ![][vite]
  ![][vue]
+ ![][angular]
 
 ### Backend
  ![][node]
@@ -42,6 +52,7 @@
 [unoCss]: https://img.shields.io/badge/-UnoCSS-151515?style=for-the-badge&logo=unocss
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [vite]: https://img.shields.io/badge/-Vite-202050?style=for-the-badge&logo=vite
+[angular]: https://img.shields.io/badge/-Angular-990000?style=for-the-badge&logo=angular
 <!--[sass]: https://img.shields.io/badge/-Sass-927?style=for-the-badge&logoColor=white&logo=sass-->
 
 <!--Backend-->
@@ -57,10 +68,11 @@
  [mariadb]: https://img.shields.io/badge/-MariaDB-272735?style=for-the-badge&logo=mariadb
  [redis]: https://img.shields.io/badge/-Redis-272735?style=for-the-badge&logo=redis&color=white
 
-<div>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Acce117&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas" />
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acce117&theme=tokyonight&hide_border=true" alt="Racha" /> -->
-</div>
- <!--img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acce117&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes" /-->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acce117&theme=tokyonight&hide_border=true" alt="Resumen de perfil" />
- <!--img src="https://github-profile-trophy.vercel.app/?username=Acce117&theme=tokyonight&margin-w=3" alt="Trofeos"-->
+<b>My GitHub Stats</b>
+<br/>
+<a
+                      href="http://www.github.com/Acce117"><img src="https://github-readme-stats.vercel.app/api?username=Acce117&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="Acce117's GitHub stats" /></a><a
+                      href="http://www.github.com/Acce117"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Acce117&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+                  <br/>
+                  <b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Acce117/template-back-nest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Acce117&repo=template-back-nest&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/Acce117/template-front-vue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Acce117&repo=template-front-vue&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
