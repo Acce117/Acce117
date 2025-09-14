@@ -39,7 +39,7 @@ Passionate about web development both front and back. Always learning, always im
 ![][postgres]
 ![][mariadb]
 ![][redis]
-
+![][mongo]
 <!--Languages-->
 [javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=for-the-badge&logoColor=white&logo=javascript
 [typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logoColor=white&logo=typescript
@@ -67,6 +67,7 @@ Passionate about web development both front and back. Always learning, always im
  [postgres]: https://img.shields.io/badge/-PostgreSQL-272735?style=for-the-badge&logo=postgresql
  [mariadb]: https://img.shields.io/badge/-MariaDB-272735?style=for-the-badge&logo=mariadb
  [redis]: https://img.shields.io/badge/-Redis-272735?style=for-the-badge&logo=redis&color=white
+ [mongo]: https://img.shields.io/badge/-MongoDB-272735?style=for-the-badge&logo=mongodb&color=white
 
 <b>My GitHub Stats</b>
 <br/>
