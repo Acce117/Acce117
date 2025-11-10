@@ -33,7 +33,6 @@ Passionate about web development both front and back. Always learning, always im
  ![][nest]
  ![][laravel]
  ![][socket]
- ![][simphony]
 
 ### Database
 ![][postgres]
